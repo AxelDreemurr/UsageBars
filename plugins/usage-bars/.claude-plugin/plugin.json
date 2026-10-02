@@ -1,0 +1,8 @@
+{
+  "name": "usage-bars",
+  "version": "0.1.0",
+  "description": "Dos barras de píxeles sobre el prompt con el uso de los límites de 5 horas y semanal de Claude",
+  "author": { "name": "Axel Silva Martínez" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

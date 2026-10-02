@@ -1,0 +1,12 @@
+{
+  "name": "axel-mods",
+  "owner": { "name": "Axel Silva Martínez" },
+  "metadata": { "description": "Mods para Claude Code de Axel" },
+  "plugins": [
+    {
+      "name": "usage-bars",
+      "source": "./plugins/usage-bars",
+      "description": "Barras sobre el prompt con el uso de los límites de 5 horas y semanal"
+    }
+  ]
+}
